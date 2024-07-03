@@ -15,8 +15,7 @@
 - 🌱 I’m currently learning **Nest JS**
 - ⚡ Good at **Javascript, React, Next, Node & Express**
 - 📫 How to reach me **mohonsaha108@gmail.com**
-  
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as MS**
 </td>
 
 <td width="50%" align="center">
