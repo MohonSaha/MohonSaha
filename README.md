@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="100%" src="https://i.ibb.co/m5Q043V/LC.png">
+<img align="center" alt="Coding" width="100%" src="https://i.ibb.co/3pSSLJH/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.pngg">
 <h1 align="center">Hi 👋, I'm Mohon Saha</h1>
 <h3 align="center"> Full Stack Developer | Building things for the web | Working with dream to Software Engineer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
