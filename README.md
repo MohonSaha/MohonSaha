@@ -84,7 +84,7 @@
 
 ---
 
-<h3 align="center">📖 My recent blog posts:</h3>
+<h3 align="center">My recent blog posts:</h3>
 
 - [Exploring the World of SQL.](https://medium.com/@mohonsaha/exploring-the-world-of-sql-d3b05db4dfe6)
 - [NodeJs (A story from Toy to Top)](https://medium.com/@mohonsaha/nodejs-a-story-from-toy-to-top-9e04446e5370)
